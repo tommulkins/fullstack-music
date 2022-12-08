@@ -1,5 +1,5 @@
 {
-  "dimmer.enabled": true,
+  "dimmer.enabled": false,
   "sqltools.connections": [
     {
       "previewLimit": 50,
@@ -9,7 +9,7 @@
       "driver": "PostgreSQL",
       "name": "fullstack-music",
       "database": "fullstack_music",
-      "username": "tommulkins"
+      "username": "fem"
     }
   ]
 }
